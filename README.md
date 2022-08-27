@@ -1,4 +1,4 @@
-![dmd 100 course background art](/assets/michael-collins_knowledge_expressed_as_a_tree_in_the_style_of_s_472bfee0-eb69-4241-ab61-77668d28b6ae.jpg)
+![Book cover art, abstract trees made of tall black and white geometric shapes](/assets/michael-collins_knowledge_expressed_as_a_tree_in_the_style_of_s_472bfee0-eb69-4241-ab61-77668d28b6ae.jpg)
 
 # Creative Research
 
@@ -17,3 +17,6 @@ Anyone can recommend additions or alterations to this text. Please, submit a [pu
 
 See the [license](/LICENSE.md) page for details.
 
+---
+
+1. Cover image genereated by [MidJourney](https://www.midjourney.com/) using prompt: `knowledge expressed as a tree, in the style of Sol Lewitt --ar 16:9`
