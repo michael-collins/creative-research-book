@@ -1,7 +1,8 @@
 {
     "plugins": [
         "oerschema",
-        "youtube"
+        "youtube",
+        "codeblock-disable-glossary"
     ],
     "pluginsConfig": {}
 }
