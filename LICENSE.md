@@ -23,7 +23,7 @@ Add [OER Schema](http://oerschema.org) and CC License to HTML source:
 
         <!-- Link the license and attribution to the page -->
         <link about="#oer-source" property="cc:license" content="https://creativecommons.org/licenses/by/4.0/">
-        <meta about="#oer-source" property="cc:attributionUrl" content="https://www.gitbook.com/book/dmd-program/dmd-100-fa18">
+        <meta about="#oer-source" property="cc:attributionUrl" content="https://www.gitbook.com/book/michael-collins/creative-research-book">
         <meta about="#oer-source" property="cc:attributionName" typeof="oer:Resource" content="Michael Collins">
 
 </div>
@@ -31,7 +31,7 @@ Add [OER Schema](http://oerschema.org) and CC License to HTML source:
 
 ### Visible attribution
 
-“[DMD 100: Digital Multimedia Design Foundations](https://www.gitbook.com/book/dmd-program/dmd-100-fa18/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+“[Creative Research](https://www.gitbook.com/book/michael-collins/creative-research-book/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
-`“<a href="https://github.com/dmd-program/dmd-100-fa18">DMD 100: Digital Multimedia Design Foundations</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
+`“<a href="https://github.com/michael-collins/creative-research-book">Creative Research</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
 
