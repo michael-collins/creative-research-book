@@ -15,7 +15,7 @@ Anyone can recommend additions or alterations to this text. Please, submit a [pu
 
 ## License
 
-See the [license](/LICENSE.md) page for details.
+See the [license](/creative-research-book/LICENSE.md) page for details.
 
 ---
 
