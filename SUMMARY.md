@@ -17,8 +17,7 @@
     * [Identity design](topics/identity-design.md)
   * Project
     * [Ritual Project Introduction](projects/ritual/ritual_project.md)
-    * [Ritual Inspiration](projects/ritual/ritual-inspiration.md)
-    * [Discover: Interview](projects/ritual/discover_observation.md)
+    * [Discover: Observation](projects/ritual/discover_observation.md)
     * Additional project steps to be released...
 
 
