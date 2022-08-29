@@ -69,6 +69,10 @@ These lists were not meant to be hard rules that apply to everything, but they c
 
 [...] the concept of design is not exclusive to a monolithic field. When it is by itself, it connotes  abstract creative processes and methods that can be part of any type of material production–the most common one historically has been art itself. This began to change as we know in the twentieth century after the Bauhaus developed more specific approaches to art and design as specific creative concepts that for them were closely intertwined. The term design when combined with another term, such as the ones mentioned above, today functions as a very important concept to be used to describe interdisciplinarity within specializations that are by no means insulated, and are constantly influencing each other.”
 
+## References
+
+1. Papanek, Victor, and R. Buckminster Fuller. "Design for the real world." (1972).
+
 ## Citations
 
 1. [https://www.vitsoe.com/us/about/good-design](https://www.vitsoe.com/us/about/good-design) \(Commons CC-BY-NC-ND 4.0\)
