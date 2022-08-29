@@ -36,4 +36,4 @@ If you sat down in a coffee shop for a few minutes trying to identify objects th
 ### Step 2:  Document and post your work
 
 1. Submit a clear, unobstructed, well lit, readable, properly oriented and straight, high resolution scan or photograph of your journal notes in `.jpg` or `.png` format.
-2. Post a sentence describing where you went and what object you observed. 
+2. Post a few sentences describing where you went and what object you observed. 
