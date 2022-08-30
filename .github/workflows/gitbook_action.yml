@@ -37,11 +37,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           # personal_token: ${{ secrets.PERSONAL_TOKEN }}
           gitbook_pdf: true
-          gitbook_pdf_dir: '/'
+          gitbook_pdf_dir: ''
           gitbook_pdf_name: ${{ github.event.repository.name }}
           gitbook_epub: true
-          gitbook_epub_dir: '/'
+          gitbook_epub_dir: ''
           gitbook_epub_name: ${{ github.event.repository.name }}
           gitbook_mobi: true
-          gitbook_mobi_dir: '/'
+          gitbook_mobi_dir: ''
           gitbook_mobi_name: ${{ github.event.repository.name }}
