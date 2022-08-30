@@ -1,6 +1,7 @@
 {
     "title": "Creative Research",
     "author": "Michael Collins",
+    "language": "en",
     "plugins": [
         "oerschema",
         "youtube",
