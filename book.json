@@ -1,9 +1,12 @@
 {
+    "title": "Creative Research",
+    "author": "Michael Collins",
     "plugins": [
         "oerschema",
         "youtube",
         "codeblock-disable-glossary",
-        "github-edit"
+        "github-edit",
+        "-sharing"
     ],
     "pluginsConfig": {
         "github-edit": {
