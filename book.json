@@ -21,13 +21,13 @@
                 {
                     "label": "Download PDF",
                     "icon": "fa fa-file-pdf-o",
-                    "url": "http://michaelcollins.xyz/creative-research-book/creative-research-book.pdf",
+                    "url": "http://michaelcollins.xyz/creative-research-book/exports/creative-research-book.pdf",
                     "target": "_self"
                 },
                 {
                     "label": "Download ebook",
                     "icon": "fa fa-book",
-                    "url": "http://michaelcollins.xyz/creative-research-book/creative-research-book.ebook",
+                    "url": "http://michaelcollins.xyz/creative-research-book/exports/creative-research-book.ebook",
                     "target": "_self"
                 }
                 
