@@ -3,7 +3,7 @@
         "oerschema",
         "youtube",
         "codeblock-disable-glossary",
-        "plugins": ["github-edit"]
+        "github-edit"
     ],
     "pluginsConfig": {
         "github-edit": {
