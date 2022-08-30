@@ -2,7 +2,13 @@
     "plugins": [
         "oerschema",
         "youtube",
-        "codeblock-disable-glossary"
+        "codeblock-disable-glossary",
+        "plugins": ["github-edit"]
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "github-edit": {
+            "repo": "michael-collins/creative-research-book",
+            "branch": "master"
+        }
+    }
 }
