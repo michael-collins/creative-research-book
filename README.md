@@ -11,7 +11,7 @@ This book was forked and heavily modified from [DMD 100: Digital Multimedia Desi
 **E-Mail:** msc227@psu.edu  
 **Twitter:** @\_mike\_collins
 
-Anyone can recommend additions or alterations to this text. Please, submit a [pull request on github.com](https://github.com/michael-collins/creative-research-book) or file an issue in the [issue queue](https://github.com/michael-collins/creative-research-book/issues).
+Anyone can recommend additions or alterations to this text. Please, submit a [pull request on github.com](https://github.com/michael-collins/creative-research-book) or file an issue in the [issue queue](https://github.com/michael-collins/creative-research-book/issues). When forking this book, be sure to update `book.json` so that it points to the correct repository.
 
 ## License
 
