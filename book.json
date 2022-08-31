@@ -9,6 +9,7 @@
         "github-edit",
         "-sharing",
         "toolbar"
+        "medium-zoom"
     ],
     "pluginsConfig": {
         "github-edit": {
@@ -32,6 +33,11 @@
                 }
                 
             ]
+        }
+        "medium-zoom": {
+          "margin": 24,
+          "background": "#BADA55",
+          "scrollOffset": 0
         }
     }
 }
