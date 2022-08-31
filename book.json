@@ -8,8 +8,7 @@
         "codeblock-disable-glossary",
         "github-edit",
         "-sharing",
-        "toolbar",
-        "medium-zoom"
+        "toolbar"
     ],
     "pluginsConfig": {
         "github-edit": {
@@ -33,11 +32,6 @@
                 }
                 
             ]
-        },
-        "medium-zoom": {
-          "margin": 24,
-          "background": "#BADA55",
-          "scrollOffset": 0
         }
     }
 }
