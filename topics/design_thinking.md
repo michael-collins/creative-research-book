@@ -8,6 +8,16 @@
 
 Design Thinking is the most current incarnation of terminology meant to frame and ascribe value for the role of creative problem solving within a larger system. Generally speaking, design thinking refers the methods used to strategically guide a person or group to question underlying assumptions, generate a large array of ideas, better understand user needs, synthesize prototypes, propose or build viable solutions, and more. Its roots can be traced to Participatory Design, User-Centered Design, Service Design, and Human-Centered Design. Imagining a new idea, let alone 100 new ideas, is hard and often comes with overcoming learned blocks to creative thinking. To make this process easier, modern design thinking methods tend to incorporate synectics, or methods that facilitate the connection of ideas through unrelated phenomenon.
 
+Design thinking is considered by some to have grown out of Standford's d.school, but initial methods can be traced back to Stanford's Department of Mechanical Engineering in the '50s, '60s, and '70s. The d.school established what they call "d.mindsets," or attitudes and approaches to help students better solve design challenges:
+
+1. Focus on human values
+2. Show, don’t tell
+3. Create clarity from complexity
+4. Get experimental and experiential
+5. Be mindful of process
+6. Bias towards action
+7. Collaborate across boundaries
+
 ## Design blocks
 
 You can think of design blocks as a kind of enemy to good design. A design block is a mental, cultural, or social hinderance to finding solutions that stray from norms and assumed knowledge and ideas. Without a willingness to push beyond what is assumed, change will be a very slow process. As Victor Papanek writes in _Design for the Real World, Human Ecology and Social Change_, "We live in a society that penalizes highly creative individuals for their non-conformist autonomy. This makes the teaching of problem-solving discouraging and difficult. A 22-two-year-old student arrives at school with massive blocks against new ways of thinking, engendered by some 16 years of miseducation, a heritage of childhood and pubescence of being "molded," "adjusted," "shaped." Meanwhile our society continuously evolves new social patterns that promise a slight departure from the mainstream but without ever endangering the patchwork of marginal groups that make up society as a whole."
@@ -77,12 +87,13 @@ Jess McMullin, founder of the Centre for Citizen Experience and Situ Strategy, d
 
 The organizations that incorporate design into the framing and problem solving end of the design maturity continuum are highlighted in the [Design Value Index \(DVI\)](http://www.dmi.org/?page=2015DVIandOTW). The superior performance of the index in relation to the S&P 500 is used to make the case not only for investing in design-driven companies, but as further evidence for why design should take a larger role within large organizations.
 
-## Citation
+## References
 
 1. _Design and Thinking_. Dir. Mu-Ming Tsai. 2012. Film.
 2. James A. Lawrence and Earl N. Steck, _Overview of Management Theory _\(Carlisle Barracks, PA: U.S. Army War College, 1991\), ii & 34. [http://www.dtic.mil/dtic/tr/fulltext/u2/a235762.pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/a235762.pdf)
 3. [http://thinkingandmaking.com/files/design\_maturity.pdf](http://thinkingandmaking.com/files/design_maturity.pdf)
 4. [http://www.dmi.org/?page=2015DVIandOTW](http://www.dmi.org/?page=2015DVIandOTW)
+5. McCarthy, S. “Design Thinking? Thank an Engineer.” Dialectic, 3.1 (2021): pgs. 39-57.
 
 
 
