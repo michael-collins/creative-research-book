@@ -93,7 +93,7 @@ The organizations that incorporate design into the framing and problem solving e
 2. James A. Lawrence and Earl N. Steck, _Overview of Management Theory _\(Carlisle Barracks, PA: U.S. Army War College, 1991\), ii & 34. [http://www.dtic.mil/dtic/tr/fulltext/u2/a235762.pdf](http://www.dtic.mil/dtic/tr/fulltext/u2/a235762.pdf)
 3. [http://thinkingandmaking.com/files/design\_maturity.pdf](http://thinkingandmaking.com/files/design_maturity.pdf)
 4. [http://www.dmi.org/?page=2015DVIandOTW](http://www.dmi.org/?page=2015DVIandOTW)
-5. McCarthy, S. “Design Thinking? Thank an Engineer.” Dialectic, 3.1 (2021): pgs. 39-57.
+5. McCarthy, S. “Design Thinking? Thank an Engineer.” Dialectic, 3.1 (2021): pgs. 39-57. ([PDF Download]([creative-research-book/assets/](https://github.com/michael-collins/creative-research-book/blob/e01c28f2ac6335cead3a40a7ff146b5d65c8884c/assets/design-thinking-thank-an-engineer.pdf)))
 
 
 
