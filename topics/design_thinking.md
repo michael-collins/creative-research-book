@@ -10,13 +10,13 @@ Design Thinking is the most current incarnation of terminology meant to frame an
 
 Design thinking is considered by some to have grown out of Standford's d.school, but initial methods can be traced back to Stanford's Department of Mechanical Engineering in the '50s, '60s, and '70s. The d.school established what they call "d.mindsets," or attitudes and approaches to help students better solve design challenges:
 
-1. Focus on human values
-2. Show, don’t tell
-3. Create clarity from complexity
-4. Get experimental and experiential
-5. Be mindful of process
-6. Bias towards action
-7. Collaborate across boundaries
+> 1. Focus on human values
+> 2. Show, don’t tell
+> 3. Create clarity from complexity
+> 4. Get experimental and experiential
+> 5. Be mindful of process
+> 6. Bias towards action
+> 7. Collaborate across boundaries
 
 ## Design blocks
 
