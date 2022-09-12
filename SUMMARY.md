@@ -17,7 +17,7 @@
 * Ritual Project
   * [Ritual Project Introduction](projects/ritual/ritual_project.md)
   * [Discover: Observation](projects/ritual/discover_observation.md)
-  * [Define: Purpose word pairs](projects/ritual/define-purpose-word-pairs.md)
+  * [Define: Word pairs](projects/ritual/define-purpose-word-pairs.md)
   * [Discover: Interview](projects/ritual/discover_interview.md)
   * [Define: Themes and insights](projects/ritual/define-insights.md)
   * [Define: How might we?](projects/ritual/define_hmw.md)
