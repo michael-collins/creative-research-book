@@ -7,7 +7,7 @@
 1. Make changes based on the peer and instructor feedback and **download** the prototype file from InVision. You will receive feedback, do not submit without iterating upon your work. 
 2. Write a description of the changes made to the prototype in a `.doc` file.
 
-## Post work to the Studio
+## Post work
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
