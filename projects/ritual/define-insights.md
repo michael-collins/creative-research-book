@@ -13,7 +13,7 @@ Now that you've finished conducting the interview, it's time to identify some th
 
 1. Re-read your interview questions and answers.
 2. In your journal, write "**themes**" at the top of the page. Write down your answers as single words or very short statements to the following questions:
-    1. What patterns did you notice? For example, "routinely late for work."
+    1. What patterns did you notice? For example, "routinely late for class."
     2. Did anything surprise you?
     3. Was there anything amusing or disheartening?
     4. What else was significant or meaningful?

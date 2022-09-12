@@ -8,6 +8,19 @@ Now that you have described the various aspects of the ritual, you will create i
 
 Wireframes are informal sketches that help designers test their ideas so they can quickly iterate the design and gather feedback. This process is important because it helps product designers make decisions before wasting resources on a final product that solves the wrong problem. You will use an easy to use design tool called InvisionApp to produce a navigable wireframes of app "screens", with active buttons, menus, and other simulated features. The purpose of these wireframes are to quickly communicate to your peers how you intend to use a mobile device application to facilitate, generate, or expand upon a ritual.
 
+
+## Why prototype
+
+> * To fail safely
+> * Think with your head and hands
+> * To collaborate around
+> * To create experiences for gathering feedback from others
+> * To get an honest evaluation of different solutions
+> * To gain counter-intuitive insights
+> * To communicate a vision
+> 
+> [1]
+
 ## Tools and Materials
 
 1. Pen or marker
@@ -85,3 +98,8 @@ Use the file format indicated in each step. You must obtain prior approval to de
 
 
 
+---
+
+## References
+
+1. IDEO and IKEA Concept Kitchen Toolkit, P. 10
