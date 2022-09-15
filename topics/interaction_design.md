@@ -26,7 +26,7 @@ Lt. Gilbert S. Daniels had studied physical anthropology at Harvard, and was hir
 
 The flow was named by Mihály Csíkszentmihályi, a Hungarian psychologist. Flow is a kind of mental state where a person is completely immersed in concentration and focus when performing some action. In interaction design, you typically want your users to be able to access the flow state.
 
-Csikszentmihalyi's eight characteristics of flow:
+Csikszentmihalyi's characteristics of flow:
 
 1. Completely involved in what we are doing—focused, concentrated.
 2. Sense of ecstasy—of being outside everyday reality.
