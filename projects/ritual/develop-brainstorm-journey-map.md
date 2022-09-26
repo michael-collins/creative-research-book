@@ -8,7 +8,7 @@ After you complete the brainstorm, you will work individually on developing a jo
 
 **A journey map should include the following components**
 
-1. A critical pathway of events
+1. A critical pathway of core moments/events
 2. Feelings and thoughts that might be important to note about the events
 3. What decisions are made that lead to the events
 4. Any opportunities to capture outcomes through media production (reading, writing, video, drawing, photos, sculptures, etc.)
