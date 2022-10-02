@@ -22,6 +22,7 @@
   * [Define: Themes and insights](projects/ritual/define-insights.md)
   * [Define: How might we?](projects/ritual/define_hmw.md)
   * [Develop: Brainstorm & Journey Map](projects/ritual/develop-brainstorm-journey-map.md)
+  * [Develop: Prototype](projects/ritual/prototype.md)
   * More steps added soon...
 
 
