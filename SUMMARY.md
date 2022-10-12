@@ -24,4 +24,5 @@
   * [Develop: Brainstorm & Journey Map](projects/ritual/develop-brainstorm-journey-map.md)
   * [Develop: Storyboard](projects/ritual/develop_storyboard.md)
   * [Develop: Prototype](projects/ritual/develop_prototype.md)
+  * [Develop: Media](projects/ritual/develop_media.md)
   * More steps added soon...
