@@ -17,7 +17,7 @@ After you complete the brainstorm, you will work individually on developing a jo
 
 ## Tools
 
-* Sign up for Mural.co as a part of the Penn State Mrual group, link in Canvas.
+* Sign up for Mural.co as a part of the Penn State Mural group, link in Canvas.
 * [Mural.co Template](https://app.mural.co/template/736d06ed-85a3-4b89-beec-37f70bb1698b/4c4d9d63-6220-47ce-a689-e3b1d791fe32): After you have created an account and logged in, click on "create mural from this template." 
 
 ## Time
