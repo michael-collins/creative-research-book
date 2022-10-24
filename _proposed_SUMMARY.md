@@ -14,6 +14,9 @@
   * [Critical design](topics/critical_design.md)
   * [Visual design](topics/visual_design.md)
   * [Identity design](topics/identity-design.md)
+* Chapter 3: Topics of design for people
+  * Data driven design and autonomy
+  * IP, market, and autonomy
 * Ritual Project
   * [Ritual Project Introduction](projects/ritual/ritual_project.md)
   * [Discover: Observation](projects/ritual/discover_observation.md)
@@ -26,5 +29,8 @@
   * [Develop: Prototype](projects/ritual/develop_prototype.md)
   * [Develop: Media](projects/ritual/develop_media.md)
   * [Develop: Test](projects/ritual/develop_test_and_review.md)
-  * [Deliver: Explainer video](projects/ritual/deliver_project_explainer_video.md)
-  * [Deliver: Documentation](projects/ritual/deliver_ritual_experience_documentation.md)
+  * [Develop: Documentation](projects/ritual/develop_media.md)
+  * More steps added soon...
+* Discussions
+  * Role of Design Process is art/design in academy vs
+  * Did the design process work for you?
