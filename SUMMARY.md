@@ -26,5 +26,7 @@
   * [Develop: Prototype](projects/ritual/develop_prototype.md)
   * [Develop: Media](projects/ritual/develop_media.md)
   * [Develop: Test](projects/ritual/develop_test_and_review.md)
+  * [Develop: Statement](projects/ritual/develop_ritual_statement.md)
   * [Deliver: Explainer video](projects/ritual/deliver_project_explainer_video.md)
   * [Deliver: Documentation](projects/ritual/deliver_ritual_experience_documentation.md)
+  * [Deliver: Project Document](projects/ritual/deliver_ritual_project_document.md)
