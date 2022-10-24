@@ -1,2 +1,0 @@
-# Deliver: Interactive Prototype
-
