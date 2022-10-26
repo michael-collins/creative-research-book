@@ -2,7 +2,7 @@
 
 # Develop: Test and review
 
-Now that you have developed an experience, it is time to test the work. You will be assigned a partner, whom you will test your experience on. This is an opportunity to practice receiving and interpreting feedback, and to practice analyzing and collecting data on your design. A critique of your work might feel stressful at first, but it is one of the most common, and useful processes in design.
+Now that you have developed an experience, it is time to test the work. You will be assigned a partner, whom you will test your experience on. This is an opportunity to practice receiving and interpreting feedback, and to practice analyzing and collecting data on your design. A critique of your work might feel stressful at first, but it is one of the most common and useful processes in design.
 
 ## Instructions
 
