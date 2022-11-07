@@ -6,7 +6,7 @@ This book was forked and heavily modified from [DMD 100: Digital Multimedia Desi
 
 ## Contributors
 
-**Primary Course Author**
+**Primary Author**
 
 **E-Mail:** msc227@psu.edu  
 **Twitter:** @\_mike\_collins
