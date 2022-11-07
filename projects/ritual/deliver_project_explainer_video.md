@@ -2,15 +2,21 @@
 
 # Deliver: Project explainer video
 
-Produce a ***short*** video presentation that documents and explains the project process and outcomes for a general audience unfamiliar with the work \(1-3 minutes\).
+Produce a ***short*** video presentation that documents and explains the project process and outcomes for a general audience unfamiliar with the work \(~2-3 minutes\).
 
 ## Creating the video
 
 There are different approaches to documentation video. A typical documentation video consists of the following:
 
-1. Short overview statement on screen, including title. Ensure that it is visible long enough to be read. This should simply be readable white text on a black background.
-2. Photographs, images or video clips showing the work at various stages of development, or key aspects that you developed to make the project successful. You can photograph yourself or others participating in the experience or show relevant digital images that give the audience context of your narration. 
-3. Overlay text on top of the images and video to describe the project's development and outcomes. Alternatively, you can use voice narration to describe the project.
+1. Project title and name screen
+2. Short overview statement, typically white, bold text on a black background. Ensure that it is visible on screen long enough to be read by the viewer.
+3. Photographs, images or video clips showing the research or key aspects that you developed to make the project successful.
+4. Photographs, images or video clips showing the production of the project at various stages of development. You can photograph yourself or others participating in the experience or show relevant digital images that give the audience context of your narration. 
+5. List and outcomes or lessons learned.
+
+You can overlay text on top of the images and video to describe the project's development and outcomes and/or you can use voice narration to describe the project. Do not leave the images and video up to interpretation.
+
+![Graphic depicting the main parts of video documentation as a horizontal series of frames](/assets/anatomy-of-video-doc-01.png)
 
 ## Software Tutorials
 
