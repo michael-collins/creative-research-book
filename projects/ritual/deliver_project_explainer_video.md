@@ -4,7 +4,7 @@
 
 Produce a ***short*** video presentation that documents and explains the project process and outcomes for a general audience unfamiliar with the work \(~2-3 minutes\).
 
-## Structuring the video
+## Structuring the presentation
 
 There are different approaches to documentation video. A typical documentation video consists of the following:
 
@@ -12,8 +12,10 @@ There are different approaches to documentation video. A typical documentation v
 2. Short overview statement, typically white, bold text on a black background. Ensure that it is visible on screen long enough to be read by the viewer.
 3. Photographs, images or video clips showing the research or key aspects that you developed to make the project successful.
  - These will typically be the outcomes from the **discover** and **define** portions of the project.
+ - If your journaled research is not presentable, recreate it using nicer handwriting and more clear drawings, etc.
 5. Photographs, images or video clips showing the production of the project at various stages of development. You can photograph yourself or others participating in the experience or show relevant digital images that give the audience context of your narration. 
  - These will typically be the outcomes from the **develop** portion of the project
+ - Figure out the best way to communicate the things you are making. This can be screen captured videos or images, photographs of in-progress work, diagrams, etc.
 7. List and outcomes or lessons learned.
 
 You can overlay text on top of the images and video to describe the project's development and outcomes and/or you can use voice narration to describe the project. Do not leave the images and video up to interpretation.
@@ -22,10 +24,11 @@ You can overlay text on top of the images and video to describe the project's de
 
 ## Creating and exporting the video (recommended)
 
-1. Create a PowerPoint or Google Slides presentation in widescreen aspect ratio
-2. Export the slides as images
-3. Record an audio narration for each slide using quicktime (should be about 1-3 minutes of audio)
-4. Import the images and audio into premiere pro or aftereffects
+1. Create a presentation folder on your computer and save everything to this folder.
+2. Create a PowerPoint or Google Slides presentation in widescreen aspect ratio
+3. Export the slides as images
+4. Record an audio narration for each slide using quicktime (should be about 1-3 minutes of audio)
+5. Import the images and audio into premiere pro or aftereffects
 6. Edit and export using H.264 format. This should be a small file size. 
 
 ## Additional software tutorials
