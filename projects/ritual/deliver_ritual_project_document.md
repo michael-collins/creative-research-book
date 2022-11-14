@@ -41,6 +41,27 @@ Documents can be created in **Adobe InDesign**, but documents produced in MS Wor
 9. **Image credits** \(optional\)
 10. **Appendix** \(optional\)
 
+### If using Adobe InDesign
+
+1. Create a new document
+   * Select the **print** tab and then select **letter** size.
+   * You can use a free Adobe template as a starting point, or start with a blank document.
+2. For styling, please use the paragraph and character styles panel to manage the document's text styles. To change a style, you can make a change to text in the document, select the corresponding style definition, and click on the **Redefine Style** button. Make sure you have at least two heading styles defined.
+3. **Table of Contents:** Make sure you are using the proper headings styles in the document so that the ToC can automatically update. If there is no table of contents in the template you chose, or you started from scratch, use **Layout** -> **Table of Contents** to insert one. You can choose from your predefined styles to create the ToC in the dialog box.
+4. **Exporting:** Typically, you will be editing the document as spreads (two pages next to each other as they would appear in a printed book).
+   * To export spreads as single pages, choose File -> Export. Choose **PDF** from the dropdown, then **save**. When the dialog appears, select the Export As **Pages** setting.
+
+### MS Word
+
+1. Create a new from template document or select a blank document
+   * For starting with a template, select the **Paper with Cover and ToC** template.
+   * You can use this template as a starting point and modify the styles, or if starting with a blank document, modify the default styles for headings.
+2. **Table of Contents:** 
+   * If you started from scratch and there is no Table of Contents, go to tab called **References** and select **Table of Contents** to insert one. You can right-click to update the ToC automatically when adding new sections.
+   * Use document styles properly. Use headings and subheadings so that your Table of Contents can be automatically regenerated.
+   * To change styles for the entire document, you can modify a heading, in the **Home** tab, you can right click the style you wish to update, and choose **Update to Match Selection**.
+3. **Exporting:** File -> Save As. Choose **PDF** from the dropdown, then **save**. When the dialog appears, select the Export As **Pages** setting.
+
 ### Submission details
 
 1. The final document should be exported and uploaded in PDF format.
