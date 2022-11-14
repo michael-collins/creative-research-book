@@ -41,7 +41,7 @@ Documents can be created in **Adobe InDesign**, but documents produced in MS Wor
 9. **Image credits** \(optional\)
 10. **Appendix** \(optional\)
 
-### If using Adobe InDesign
+### Publishing a PDF with Adobe InDesign
 
 1. Create a new document
    * Select the **print** tab and then select **letter** size.
@@ -51,7 +51,7 @@ Documents can be created in **Adobe InDesign**, but documents produced in MS Wor
 4. **Exporting:** Typically, you will be editing the document as spreads (two pages next to each other as they would appear in a printed book).
    * To export spreads as single pages, choose File -> Export. Choose **PDF** from the dropdown, then **save**. When the dialog appears, select the Export As **Pages** setting.
 
-### MS Word
+### Publishing a PDF with MS Word
 
 1. Create a new from template document or select a blank document
    * For starting with a template, select the **Paper with Cover and ToC** template.
