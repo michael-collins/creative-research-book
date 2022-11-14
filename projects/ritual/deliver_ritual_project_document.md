@@ -8,17 +8,16 @@ Documents can be created in **Adobe InDesign**, but documents produced in MS Wor
 
 ## Document structure:
 
-1. **Cover page**
-2. **Title page**
+1. **Title page**
    1. Title of project
    2. Subtitle \(type of media - eg. "An animated film" or "Web Application"\)
    3. Your name
    4. Semester and year \(ie. FALL 2019\)
    5. Instructor name
-3. **Table of contents**
-4. **Project overview**
+2. **Table of contents**
+3. **Project overview**
    * Describe what your project is, what it's about, how you approached it, and what the outcomes were.
-6. **Research and ideation**
+4. **Research and ideation**
    * Review the work you completed in the **discover** and **define** steps of the project.
    * Provide an overview of the research process.
    * You may use images in this section with accompanying captions to describe them.
@@ -29,18 +28,18 @@ Documents can be created in **Adobe InDesign**, but documents produced in MS Wor
 5. **Production and development**
    * Review the work you completed in the **develop** steps of the project.
    * Include relevant images, quotations, diagrams, figures, and their respective descriptive captions.
-7. **Production**
+6. **Production**
    * Provide an overview of the production process and what was produced.
    * Include any images, screenshots, and/or documentation that might be helpful to communicate the production of the project. If there are videos, please use screenshots with a caption stating what the screeshot is, and include an entry/link in the bibliogrpahy if the video is available online.
-8. **Conclusion**
+7. **Conclusion**
    * Summarize the results, outcomes, and any lessons learned that are worth mentioning. 
-9. **Bibliography**
+8. **Bibliography**
     * List research materials that support the project with associated citations throughout the document.
     * Choose either APA or MLA format. Be consistent throughout the document.
     * See [this link](https://www.bibliography.com/how-to/how-to-write-a-bibliography-for-a-school-project/) for more information about writing bibliographies.
     * You can add a **Citations** and/or a **References** section as well if those are more appropriate to support your research and documentation. See [this link](https://www.bibliography.com/how-to/difference-between-citations-and-references/) for more information.
-10. **Image credits** \(optional\)
-11. **Appendix** \(optional\)
+9. **Image credits** \(optional\)
+10. **Appendix** \(optional\)
 
 ### Submission details
 
