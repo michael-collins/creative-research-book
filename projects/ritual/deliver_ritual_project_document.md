@@ -42,6 +42,8 @@ Documents can be created in **Adobe InDesign**, but documents produced in MS Wor
 
 ### Publishing a PDF with Adobe InDesign
 
+For InDesign tutorials, [see LinkedIn Learning](https://www.linkedin.com/learning/indesign-2022-essential-training/indesign-learn-the-fundamentals).
+
 1. Create a new document
    * Select the **print** tab and then select **letter** size.
    * You can use a free Adobe template as a starting point, or start with a blank document.
@@ -51,6 +53,8 @@ Documents can be created in **Adobe InDesign**, but documents produced in MS Wor
    * To export spreads as single pages, choose File -> Export. Choose **PDF** from the dropdown, then **save**. When the dialog appears, select the Export As **Pages** setting.
 
 ### Publishing a PDF with MS Word
+
+For MS Word tutorials, [see LinkedIn Learning](https://www.linkedin.com/learning/word-2016-creating-long-documents/create-a-table-of-contents).
 
 1. Create a new from template document or select a blank document
    * For starting with a template, select the **Paper with Cover and ToC** template.
