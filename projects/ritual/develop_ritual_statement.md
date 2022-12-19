@@ -8,7 +8,7 @@ The statement's use of language should seek a balance of accurate technical term
 
 ## Structure of the statement
 
-Please write the statement in essay form using proper grammar, sentence structure, and with complete paragraphs. Do not copy and paste the following list of requirements into your statement. Instead, the statement should flow as a single description of your project. The final draft of this statement will be publicly viewable on the capstone exhibition website. The following points have been provided as a guide:
+Please write the statement in essay form using proper grammar, sentence structure, and with complete paragraphs. Do not copy and paste the following list of requirements into your statement. Instead, the statement should flow as a single description of your project. Write this statement as if the final draft will be viewed publicly in an exhibition. The following points have been provided as a guide:
 
 1. Include your **project title.**
 2. In one sentence, **explain what the project is.** This may include who it's for, or how it works.
