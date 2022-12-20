@@ -10,6 +10,8 @@ In this step, you will start producing and media (media refers to your art/desig
 
 Working from your storyboards, create media (media refers to your art/design interests) to explain, support, and facilitate the ritual experience you are designing. The media that you design should support the ritual experience aesthetically or functionally. The person in the experience (this can be you) should be able to perceive the media.
 
+Search for related artist, designers, projects, or design groups that are a good reference point for your media work. These examples will serve as inspiration, help you better understand what is possible in the medium, and help you understand what quality work looks like in a given field. This repository was started by students, and is a good possible starting point: [https://airtable.com/shr7emZD9RSiMAYeW](https://airtable.com/shr7emZD9RSiMAYeW)
+
 ## Post work
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
@@ -17,3 +19,4 @@ Use the file format indicated in each step. You must obtain prior approval to de
 1. Upload a `.doc` or `.txt` file that lists the media you have designed.
 2. Upload media or photo documentation you have designed to support the experience.
     - Do not upload source files like PSD or others. Export versions for upload including: `.jpg`, `.pdf`, `.png`, .`mp4`, etc.
+3. Write links to related artist, designers, projects, or design groups that are a good reference point for your work.
