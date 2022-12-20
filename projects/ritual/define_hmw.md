@@ -19,6 +19,8 @@ In this example, let's say that I discovered that a friend was anxious about soc
 
 How might we **\( relieve the stress of social interaction from \)** **\( a person who has trouble feeling comfortable in groups \)** **\( when they socialize with friends \)**?
 
+I could then attempt to locate relevant research related to any number of aspects of the HMW, including psychology, commiunication, phenomenology, interaction design, etc., to help gain a better understanding of some of the underlying forces in play and what to keep in mind when attempting to better understand the problem space.
+
 ## Instructions
 
 1. Based on your interview insights, use the sentence template to write three possible HMW questions, one for each insight.
