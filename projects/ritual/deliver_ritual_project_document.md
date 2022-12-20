@@ -66,12 +66,16 @@ For MS Word tutorials, [see LinkedIn Learning](https://www.linkedin.com/learning
    * To change styles for the entire document, you can modify a heading, in the **Home** tab, you can right click the style you wish to update, and choose **Update to Match Selection**.
 3. **Exporting:** File -> Save As. Choose **PDF** from the dropdown, then **save**. When the dialog appears, select the Export As **Pages** setting.
 
+### Dos and don'ts
+
+1. Do not steal graphics from the Internet. Find properly licensed graphics or use graphics software to recreate them. Graphics from this course book are CC licensed unless stated otherwise and require attribution. See the (license page)[/LICENSE.md].
+2. Do not center align long form text. Captions and quotes are fine, but not main body text.
+3. Do include a minimum of two scholarly citations including publications from Google Scholar, and other reputable sources.
+
 ### Submission details
 
-1. Make sure you include 2 scholarly resources to aid in the discussion and contextualization of the work.
-2. Do not steal graphics from the Internet. Find properly licensed graphics or use graphics software to recreate them. Graphics from this course book are CC licensed unless stated otherwise and require attribution. See the (license page)[/LICENSE.md].
-3. The final document should be exported and uploaded in PDF format.
-4. The filename should be _lastname_-_firstname_\_ritiual-project-document.pdf
+1. The final document should be exported and uploaded in PDF format.
+2. The filename should be _lastname_-_firstname_\_ritiual-project-document.pdf
    - **Example:** collins-michael_ritiual-project-document.pdf
 
 
