@@ -17,6 +17,7 @@ Documents can be created in **Adobe InDesign**, but documents produced in MS Wor
 2. **Table of contents**
 3. **Project overview**
    * Describe what your project is, what it's about, how you approached it, and what the outcomes were.
+   *  Make sure you include at least **two** scholarly resources to aid in the discussion and contextualization of the work.
 4. **Research and ideation**
    * Review the work you completed in the **discover** and **define** steps of the project.
    * Provide an overview of the research process.
@@ -67,8 +68,9 @@ For MS Word tutorials, [see LinkedIn Learning](https://www.linkedin.com/learning
 
 ### Submission details
 
-1. The final document should be exported and uploaded in PDF format.
-2. The filename should be _lastname_-_firstname_\_ritiual-project-document.pdf
+1. Make sure you include 2 scholarly resources to aid in the discussion and contextualization of the work.
+2. The final document should be exported and uploaded in PDF format.
+3. The filename should be _lastname_-_firstname_\_ritiual-project-document.pdf
    - **Example:** collins-michael_ritiual-project-document.pdf
 
 
