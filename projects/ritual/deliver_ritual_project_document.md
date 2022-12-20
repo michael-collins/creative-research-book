@@ -69,8 +69,9 @@ For MS Word tutorials, [see LinkedIn Learning](https://www.linkedin.com/learning
 ### Submission details
 
 1. Make sure you include 2 scholarly resources to aid in the discussion and contextualization of the work.
-2. The final document should be exported and uploaded in PDF format.
-3. The filename should be _lastname_-_firstname_\_ritiual-project-document.pdf
+2. Do not steal graphics from the Internet. Find properly licensed graphics or use graphics software to recreate them. Graphics from this course book are CC licensed unless stated otherwise and require attribution. See the (license page)[/LICENSE.md].
+3. The final document should be exported and uploaded in PDF format.
+4. The filename should be _lastname_-_firstname_\_ritiual-project-document.pdf
    - **Example:** collins-michael_ritiual-project-document.pdf
 
 
