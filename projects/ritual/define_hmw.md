@@ -22,10 +22,12 @@ How might we **\( relieve the stress of social interaction from \)** **\( a pers
 1. Based on your interview insights, use the sentence template to write three possible HMW questions, one for each insight.
 2. Review your sentences and _**circle**_ the one you think works best.
 3. Document your HMW question with a photograph or scan.
+4. List URL or DOI to several credible published sources related to the HMW. Conduct a search for peer-reviewed journals, book chapters, etc. that are related to the subject matter identified in your HMW question. Critical aspects presented in this research that impact the context and form of the design work should be considered as you move through the rest of the design process. A library, Google Scholar, journal databases, and published books by credible figures should be given priority. 
 
 ## Post work to the Studio
 
 Use the file format indicated in each step. You must obtain prior approval to deviate from these upload requirements. Please check that your work has uploaded properly.
 
 1. Upload the photograph or scan of your HMW questions in `.jpg` or `.png` format.
+2. List the URL or DOI of each journal article, book, chapter, etc., that you will use to help inform your work.
 
