@@ -68,7 +68,7 @@ For MS Word tutorials, [see LinkedIn Learning](https://www.linkedin.com/learning
 
 ### Dos and don'ts
 
-1. Do not steal graphics from the Internet. Find properly licensed graphics or use graphics software to recreate them. Graphics from this course book are CC licensed unless stated otherwise and require attribution. See the (license page)[/LICENSE.md].
+1. Do not steal other people's graphics. Find properly licensed graphics or use graphics software to recreate them. If you are speficially referencing a specific graphic to help frame a discussion, then properly caption and cite the graphic. Graphics from this course book are CC licensed unless stated otherwise and require attribution. See the (license page)[/LICENSE.md].
 2. Do not center align long form text. Captions and quotes are fine, but not main body text.
 3. Do include a minimum of two scholarly citations including publications from Google Scholar, and other reputable sources.
 
