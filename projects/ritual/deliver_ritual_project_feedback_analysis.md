@@ -6,11 +6,11 @@ In this exercise, you will complete feedback and analysis for one of your peer's
 
 ## Grading criteria: 
 
-**'A':** There is evidence that you looked  through and read through the project materials. You cited examples from the project by referencing the paragraph, page, slide, photo or other item. You wrote thoughtful responses to each question. You incorporated some ideas from the course book (online course text Links to an external site.) in your discussion (vocabulary, central themes, other examples). You were able to clearly identify problems and recommend possible alternatives, solutions, or examples from external research that you conducted. You highlighted similar successful art/design projects, artists/designers, and cited links for where to find out more information about them.
+**'A':** Minimum of 500 words. There is evidence that you looked  through and read through the project materials. You cited examples from the project by referencing the paragraph, page, slide, photo or other item. You wrote thoughtful responses to each question. You incorporated some ideas from the course book (online course text Links to an external site.) in your discussion (vocabulary, central themes, other examples). You were able to clearly identify problems and recommend possible alternatives, solutions, or examples from external research that you conducted. You highlighted similar successful art/design projects, artists/designers, and cited links for where to find out more information about them.
 
-**'B':** There is evidence that you looked  through and read through the project materials. You cited examples from the project by referencing the paragraph, page, slide, photo or other item. You wrote more than a sentence in response to each question. You incorporated some ideas from the course book (online course text Links to an external site.) in your discussion (vocabulary, central themes, other examples).
+**'B':** Minimum of 500 words. There is evidence that you looked  through and read through the project materials. You cited examples from the project by referencing the paragraph, page, slide, photo or other item. You wrote more than a sentence in response to each question. You incorporated some ideas from the course book (online course text Links to an external site.) in your discussion (vocabulary, central themes, other examples).
 
-**'C':** you wrote simple, one sentence or word answers for the questions, and did not provide advice or meaningful evaluation, or make references to the items in question.
+**'C':** Minimum of 300 words. You wrote simple, one sentence or word answers for the questions, and did not provide advice or meaningful evaluation, or make references to the items in question.
 
 **'D':** you did not show evidence that you understood or followed the directions, or that you only partially looked at the project. There is minimal engagement with the questions provided.
 
