@@ -31,7 +31,7 @@ Add [OER Schema](http://oerschema.org) and CC License to HTML source:
 
 ### Visible attribution
 
-“[Creative Research](https://www.gitbook.com/book/michael-collins/creative-research-book/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
+“[Creative Research](https://www.github.com/book/michael-collins/creative-research-book/details)” by Michael Collins is licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
 
 `“<a href="https://github.com/michael-collins/creative-research-book">Creative Research</a>” by Michael Collins is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC-BY-4.0</a>.`
 
