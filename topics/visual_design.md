@@ -87,8 +87,8 @@ It took John Singer Sargent more than a year to finish the Portrait of Madame X 
 
 ## Citations
 
-1. [http://www.getty.edu/education/teachers/building\_lessons/principles\_design.pdf](https://www.gitbook.com/book/dmd-program/dmd-100-sp17/edit#)
-2. [Roger Fry, “An Essay in Aesthetics” in_Vision and Design_\(orig. publ. 1920; rpt. New York: New American Library, 1974\),16-38.](https://www.gitbook.com/book/dmd-program/dmd-100-sp17/edit#) 
+1. http://www.getty.edu/education/teachers/building\_lessons/principles\_design.pdf
+2. Roger Fry, “An Essay in Aesthetics” in_Vision and Design_\(orig. publ. 1920; rpt. New York: New American Library, 1974\),16-38.
 
 
 
