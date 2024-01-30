@@ -1,3 +1,6 @@
+# prereqs
+Must be using Node 10 (suggest installing brew and NVM to manage versions)
+
 # install the plugins and build the static site
 gitbook install && gitbook build
 
